@@ -1,0 +1,20 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-01 08:22:16 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-07-01 16:27:51 --> Could not find the language line "_expenses_for"
+ERROR - 2023-07-01 16:28:05 --> Could not find the language line "student1"
+ERROR - 2023-07-01 16:28:20 --> Could not find the language line "_expenses_for"
+ERROR - 2023-07-01 16:28:27 --> Could not find the language line "student1"
+ERROR - 2023-07-01 16:28:38 --> Could not find the language line "student1"
+ERROR - 2023-07-01 16:29:09 --> Could not find the language line "student1"
+ERROR - 2023-07-01 17:06:03 --> Could not find the language line "_expenses_for"
+ERROR - 2023-07-01 17:06:18 --> Could not find the language line "_expenses_for"
+ERROR - 2023-07-01 17:06:19 --> Could not find the language line "student1"
+ERROR - 2023-07-01 17:06:30 --> Could not find the language line "student1"
+ERROR - 2023-07-01 17:06:35 --> Could not find the language line "student1"
+ERROR - 2023-07-01 17:06:35 --> Could not find the language line "detail"
+ERROR - 2023-07-01 17:06:35 --> Could not find the language line "file"
+ERROR - 2023-07-01 17:06:35 --> Could not find the language line "upload_documents1"
+ERROR - 2023-07-01 17:06:35 --> Could not find the language line "Save"
+ERROR - 2023-07-01 17:06:39 --> Could not find the language line "student1"
+ERROR - 2023-07-01 17:09:48 --> Could not find the language line "student1"

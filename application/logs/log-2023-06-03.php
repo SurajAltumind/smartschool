@@ -1,0 +1,56 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-03 06:08:18 --> Could not find the language line ""
+ERROR - 2023-06-03 06:08:18 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-03 06:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 111
+ERROR - 2023-06-03 06:08:19 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 166
+ERROR - 2023-06-03 06:08:19 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-03 06:08:19 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-03 06:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 93
+ERROR - 2023-06-03 11:05:33 --> Could not find the language line ""
+ERROR - 2023-06-03 11:07:56 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-03 11:15:09 --> Could not find the language line "student1"
+ERROR - 2023-06-03 11:15:21 --> Could not find the language line "student1"
+ERROR - 2023-06-03 11:15:50 --> Could not find the language line "student1"
+ERROR - 2023-06-03 11:15:50 --> Could not find the language line "detail"
+ERROR - 2023-06-03 11:15:50 --> Could not find the language line "file"
+ERROR - 2023-06-03 11:15:50 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-03 11:15:50 --> Could not find the language line "Save"
+ERROR - 2023-06-03 11:15:53 --> Could not find the language line "student1"
+ERROR - 2023-06-03 11:16:57 --> Could not find the language line "student1"
+ERROR - 2023-06-03 11:19:03 --> Could not find the language line "student1"
+ERROR - 2023-06-03 11:19:14 --> Could not find the language line "student1"
+ERROR - 2023-06-03 11:19:25 --> Could not find the language line "student1"
+ERROR - 2023-06-03 11:19:25 --> Could not find the language line "detail"
+ERROR - 2023-06-03 11:19:25 --> Could not find the language line "file"
+ERROR - 2023-06-03 11:19:25 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-03 11:19:25 --> Could not find the language line "Save"
+ERROR - 2023-06-03 11:19:28 --> Could not find the language line "student1"
+ERROR - 2023-06-03 11:22:25 --> Could not find the language line "edit "
+ERROR - 2023-06-03 13:46:08 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-03 13:46:15 --> Could not find the language line "student1"
+ERROR - 2023-06-03 13:46:23 --> Could not find the language line "student1"
+ERROR - 2023-06-03 14:58:32 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-03 14:58:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 111
+ERROR - 2023-06-03 15:23:49 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-03 15:24:58 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 15:26:24 --> Could not find the language line "payment_mode"
+ERROR - 2023-06-03 15:26:24 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 15:26:48 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 15:27:22 --> Could not find the language line "payment_mode"
+ERROR - 2023-06-03 15:27:23 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 15:38:30 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 15:55:01 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 15:56:03 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 16:02:10 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 16:10:45 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-03 16:11:13 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 16:17:36 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 16:18:16 --> Could not find the language line "payment_mode"
+ERROR - 2023-06-03 16:18:16 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 16:20:00 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 16:20:47 --> Could not find the language line "payment_mode"
+ERROR - 2023-06-03 16:20:47 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 16:27:04 --> Could not find the language line "student_fee"
+ERROR - 2023-06-03 16:28:01 --> Could not find the language line "payment_mode"
+ERROR - 2023-06-03 16:28:02 --> Could not find the language line "student_fee"

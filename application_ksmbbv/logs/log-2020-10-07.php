@@ -1,0 +1,51 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-07 11:23:34 --> Severity: Warning --> A non-numeric value encountered /home/merag025/school.vilsatechnologies.com/application/controllers/admin/Admin.php 861
+ERROR - 2020-10-07 11:23:34 --> Could not find the language line "_expenses_for"
+ERROR - 2020-10-07 12:11:40 --> Could not find the language line "not_generated"
+ERROR - 2020-10-07 13:51:50 --> Could not find the language line "filter_by_name1"
+ERROR - 2020-10-07 13:52:15 --> Could not find the language line "filter_by_name1"
+ERROR - 2020-10-07 13:52:26 --> Could not find the language line "filter_by_name1"
+ERROR - 2020-10-07 13:53:40 --> Severity: Warning --> A non-numeric value encountered /home/merag025/school.vilsatechnologies.com/application/controllers/admin/Admin.php 861
+ERROR - 2020-10-07 13:53:41 --> Could not find the language line "_expenses_for"
+ERROR - 2020-10-07 13:54:09 --> Could not find the language line "filter_by_name1"
+ERROR - 2020-10-07 13:55:05 --> Severity: Warning --> A non-numeric value encountered /home/merag025/school.vilsatechnologies.com/application/controllers/admin/Admin.php 861
+ERROR - 2020-10-07 13:55:05 --> Could not find the language line "_expenses_for"
+ERROR - 2020-10-07 13:58:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/merag025/school.vilsatechnologies.com/application/views/reports/class_subject.php 125
+ERROR - 2020-10-07 13:59:40 --> Could not find the language line "filter_by_name1"
+ERROR - 2020-10-07 14:06:23 --> Could not find the language line "not_generated"
+ERROR - 2020-10-07 14:07:56 --> Could not find the language line "email_type"
+ERROR - 2020-10-07 14:09:07 --> Could not find the language line "email_type"
+ERROR - 2020-10-07 14:09:59 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:14:20 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:14:46 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:15:32 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:15:36 --> Could not find the language line "class1"
+ERROR - 2020-10-07 14:15:50 --> Could not find the language line "school"
+ERROR - 2020-10-07 14:17:10 --> Could not find the language line "school"
+ERROR - 2020-10-07 14:17:13 --> Could not find the language line "school"
+ERROR - 2020-10-07 14:17:25 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:18:32 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:19:28 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:19:37 --> Could not find the language line "class1"
+ERROR - 2020-10-07 14:19:39 --> Could not find the language line "school"
+ERROR - 2020-10-07 14:19:41 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:20:08 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:20:13 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:20:57 --> Could not find the language line "student1"
+ERROR - 2020-10-07 14:25:40 --> Could not find the language line "by_date1"
+ERROR - 2020-10-07 14:29:08 --> Could not find the language line "student_fees1"
+ERROR - 2020-10-07 14:31:16 --> Could not find the language line "by_date1"
+ERROR - 2020-10-07 14:32:57 --> Could not find the language line "student_fees1"
+ERROR - 2020-10-07 14:33:13 --> Could not find the language line "student_fees1"
+ERROR - 2020-10-07 14:33:44 --> Could not find the language line "academic"
+ERROR - 2020-10-07 14:33:44 --> Could not find the language line "auto"
+ERROR - 2020-10-07 14:33:44 --> Could not find the language line "drag"
+ERROR - 2020-10-07 14:33:44 --> Could not find the language line "drag"
+ERROR - 2020-10-07 14:33:44 --> Could not find the language line "drag"
+ERROR - 2020-10-07 14:33:44 --> Could not find the language line "drag"
+ERROR - 2020-10-07 11:53:51 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/merag025/school.vilsatechnologies.com/application/controllers/Welcome.php 64
+ERROR - 2020-10-07 11:53:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/merag025/school.vilsatechnologies.com/application/views/themes/default/pages/page.php 111
+ERROR - 2020-10-07 21:17:46 --> Severity: Warning --> A non-numeric value encountered /home/merag025/school.vilsatechnologies.com/application/controllers/admin/Admin.php 861
+ERROR - 2020-10-07 21:17:46 --> Could not find the language line "_expenses_for"
+ERROR - 2020-10-07 21:18:20 --> Could not find the language line "email_type"

@@ -1,0 +1,91 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-27 10:30:48 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-27 10:31:34 --> Could not find the language line "student1"
+ERROR - 2023-06-27 10:31:44 --> Could not find the language line "student1"
+ERROR - 2023-06-27 10:34:37 --> Could not find the language line "student1"
+ERROR - 2023-06-27 10:34:37 --> Could not find the language line "detail"
+ERROR - 2023-06-27 10:34:37 --> Could not find the language line "file"
+ERROR - 2023-06-27 10:34:37 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-27 10:34:37 --> Could not find the language line "Save"
+ERROR - 2023-06-27 10:34:40 --> Could not find the language line "student1"
+ERROR - 2023-06-27 10:37:59 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:12:24 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:12:52 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:13:19 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:13:28 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:13:28 --> Could not find the language line "detail"
+ERROR - 2023-06-27 12:13:28 --> Could not find the language line "file"
+ERROR - 2023-06-27 12:13:28 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-27 12:13:28 --> Could not find the language line "Save"
+ERROR - 2023-06-27 12:20:37 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:32:23 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:34:41 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:34:56 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:35:04 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:35:17 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:35:54 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:36:02 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:36:10 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:47:06 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:47:09 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:47:22 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:52:00 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:52:32 --> Could not find the language line "student1"
+ERROR - 2023-06-27 12:52:32 --> Could not find the language line "detail"
+ERROR - 2023-06-27 12:52:32 --> Could not find the language line "file"
+ERROR - 2023-06-27 12:52:32 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-27 12:52:32 --> Could not find the language line "Save"
+ERROR - 2023-06-27 12:52:36 --> Could not find the language line "student1"
+ERROR - 2023-06-27 13:04:30 --> Could not find the language line "student1"
+ERROR - 2023-06-27 13:49:32 --> Could not find the language line ""
+ERROR - 2023-06-27 13:49:50 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-27 13:49:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 111
+ERROR - 2023-06-27 13:49:55 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-27 13:49:56 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-27 13:49:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 93
+ERROR - 2023-06-27 14:44:16 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-27 14:44:25 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-27 14:44:26 --> Could not find the language line "student1"
+ERROR - 2023-06-27 14:44:36 --> Could not find the language line "student1"
+ERROR - 2023-06-27 14:44:46 --> Could not find the language line "student1"
+ERROR - 2023-06-27 14:44:46 --> Could not find the language line "detail"
+ERROR - 2023-06-27 14:44:46 --> Could not find the language line "file"
+ERROR - 2023-06-27 14:44:46 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-27 14:44:46 --> Could not find the language line "Save"
+ERROR - 2023-06-27 14:44:54 --> Could not find the language line "student1"
+ERROR - 2023-06-27 14:56:16 --> Could not find the language line "student1"
+ERROR - 2023-06-27 14:56:36 --> Could not find the language line "student1"
+ERROR - 2023-06-27 14:56:47 --> Could not find the language line "student1"
+ERROR - 2023-06-27 14:56:58 --> Could not find the language line "student1"
+ERROR - 2023-06-27 14:56:58 --> Could not find the language line "detail"
+ERROR - 2023-06-27 14:56:58 --> Could not find the language line "file"
+ERROR - 2023-06-27 14:56:58 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-27 14:56:58 --> Could not find the language line "Save"
+ERROR - 2023-06-27 14:57:01 --> Could not find the language line "student1"
+ERROR - 2023-06-27 15:02:54 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-27 15:02:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 93
+ERROR - 2023-06-27 15:03:31 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-27 15:03:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 111
+ERROR - 2023-06-27 15:04:07 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-27 15:05:17 --> Could not find the language line ""
+ERROR - 2023-06-27 15:07:16 --> Could not find the language line "student1"
+ERROR - 2023-06-27 15:07:34 --> Could not find the language line "student1"
+ERROR - 2023-06-27 15:07:44 --> Could not find the language line "student1"
+ERROR - 2023-06-27 15:07:53 --> Could not find the language line "student1"
+ERROR - 2023-06-27 15:07:53 --> Could not find the language line "detail"
+ERROR - 2023-06-27 15:07:53 --> Could not find the language line "file"
+ERROR - 2023-06-27 15:07:53 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-27 15:07:53 --> Could not find the language line "Save"
+ERROR - 2023-06-27 15:08:01 --> Could not find the language line "student1"
+ERROR - 2023-06-27 15:14:39 --> Could not find the language line "student1"
+ERROR - 2023-06-27 15:24:54 --> Could not find the language line "edit "
+ERROR - 2023-06-27 15:28:18 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-27 16:06:57 --> Could not find the language line ""
+ERROR - 2023-06-27 16:06:58 --> Could not find the language line ""
+ERROR - 2023-06-27 18:19:41 --> Could not find the language line ""
+ERROR - 2023-06-27 18:19:46 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-27 18:19:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 111
+ERROR - 2023-06-27 18:19:47 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-27 18:19:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 93
+ERROR - 2023-06-27 18:19:48 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64

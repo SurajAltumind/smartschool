@@ -1,0 +1,27 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-26 15:45:19 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-26 15:45:32 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-26 15:45:40 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-26 15:51:09 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-26 16:14:01 --> Could not find the language line "_expenses_for"
+ERROR - 2023-06-26 16:14:43 --> Could not find the language line "student1"
+ERROR - 2023-06-26 16:14:53 --> Could not find the language line "student1"
+ERROR - 2023-06-26 16:15:03 --> Could not find the language line "student1"
+ERROR - 2023-06-26 16:15:03 --> Could not find the language line "detail"
+ERROR - 2023-06-26 16:15:03 --> Could not find the language line "file"
+ERROR - 2023-06-26 16:15:03 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-26 16:15:03 --> Could not find the language line "Save"
+ERROR - 2023-06-26 16:15:05 --> Could not find the language line "student1"
+ERROR - 2023-06-26 16:18:06 --> Could not find the language line "student1"
+ERROR - 2023-06-26 16:19:10 --> Could not find the language line "student1"
+ERROR - 2023-06-26 16:19:19 --> Could not find the language line "student1"
+ERROR - 2023-06-26 16:19:27 --> Could not find the language line "student1"
+ERROR - 2023-06-26 16:19:27 --> Could not find the language line "detail"
+ERROR - 2023-06-26 16:19:27 --> Could not find the language line "file"
+ERROR - 2023-06-26 16:19:28 --> Could not find the language line "upload_documents1"
+ERROR - 2023-06-26 16:19:28 --> Could not find the language line "Save"
+ERROR - 2023-06-26 16:19:31 --> Could not find the language line "student1"
+ERROR - 2023-06-26 16:19:56 --> Could not find the language line "student1"
+ERROR - 2023-06-26 19:07:30 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u623942019/domains/ksmbbv.com/public_html/application/controllers/Welcome.php 64
+ERROR - 2023-06-26 19:07:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u623942019/domains/ksmbbv.com/public_html/application/views/themes/default/pages/page.php 111

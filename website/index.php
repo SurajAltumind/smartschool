@@ -1,0 +1,12 @@
+<?php 
+include('header.php');
+include('nav.php');
+include('slider.php');
+include('about.php');
+include('gallery.php');
+include('news.php');
+include('events.php');
+include('alumni.php');
+include('contact.php');
+include('footer.php'); 
+?>
